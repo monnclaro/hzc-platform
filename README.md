@@ -1,4 +1,4 @@
 Simple responsive UI 
 ====================
 
-![thumbnail](./thumb.jpg)
+![thumbnail](./assets/img/thumb.jpg)
