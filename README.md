@@ -1,4 +1,8 @@
-Simple responsive UI built with HTML, CSS & JavaScript
+<h1 align="center">
+Grid layout - RZC
+</h1>
+
+<p align="center">Responsive grid layout for study purposes.</p>
 ====================
 
 ![thumbnail](./assets/img/thumb.jpeg)
