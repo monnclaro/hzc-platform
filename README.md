@@ -4,5 +4,5 @@ RZC
 
 <p align="center">Responsive grid layout for study purposes.</p>
 
-
-![thumbnail](./assets/img/thumb.jpeg)
+<img alt="" src="./assets/img/Home.PNG" />
+<img alt="" src="./assets/img/Picos.PNG" />
