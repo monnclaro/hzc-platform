@@ -1,7 +1,8 @@
 # RZC
 
 
-<p >User interface with a responsive grid-layout, built for study purposes.</p>
+<p >User interface with a responsive grid-layout, built for study purposes.</p
+  
 `HTML` `CSS` 
 
 
