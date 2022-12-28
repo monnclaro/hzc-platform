@@ -1,6 +1,11 @@
-# RZC `HTML` `CSS` 
+<h1>RZC</h1> 
 
-<p >User interface with a responsive grid-layout, built for study purposes.</p>
+<div align="center">
+  
+`HTML` `CSS` 
+  
+</div>
+  
   
 <img alt="" src="./assets/img/Home.PNG" />
 <img alt="" src="./assets/img/Picos.PNG" />
